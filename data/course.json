@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  ],
+  "legacy_uid": "a2e674fa-3c93-8c4e-ff35-20c6f57cc0aa",
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9a372f52-49ad-ae1d-bfe1-d49115469ceb",
+    "website": "24-09-minds-and-machines-fall-2011"
+  },
+  "course_title": "Minds and Machines",
+  "course_description": "This course is an introduction to many of the central issues in a branch of philosophy called philosophy of mind.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.09",
+  "course_image_thumbnail": {
+    "content": "a2cbde10-72ef-90aa-8567-a0c8cda68df0",
+    "website": "24-09-minds-and-machines-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "8b01a986-ff13-4bdd-888a-6d0b3057d904",
+  "site_short_id": "24.09-fall-2011",
+  "title": "Course Metadata"
+}
